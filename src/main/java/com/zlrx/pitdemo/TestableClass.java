@@ -2,9 +2,9 @@ package com.zlrx.pitdemo;
 
 public class TestableClass {
 
-    public int returnWithTwo() {
-        return 2;
-    }
+//    public int returnWithTwo() {
+//        return 2;
+//    }
 
     public boolean isPositive(int number) {
         if (number >= 0) {
