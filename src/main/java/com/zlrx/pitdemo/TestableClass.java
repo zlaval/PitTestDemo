@@ -1,4 +1,4 @@
-package com.zlrx.mavendemo;
+package com.zlrx.pitdemo;
 
 public class TestableClass {
 
@@ -13,6 +13,5 @@ public class TestableClass {
             return false;
         }
     }
-
 
 }
